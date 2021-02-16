@@ -1,5 +1,5 @@
 //version:1.0.1
-/* abc */
+/* abc new */
 // this is a global variable
 //version:1.0.1
 var checkVal = "";
