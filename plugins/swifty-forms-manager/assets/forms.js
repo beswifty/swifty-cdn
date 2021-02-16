@@ -1,3 +1,4 @@
+/* version:1.0.0 */
 // this is a global variable
 var checkVal = "";
 var stepCntr = 0;
