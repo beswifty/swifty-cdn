@@ -1,6 +1,6 @@
 //version:1.0.1
 // this is a global variable
-
+//version:1.0.1
 var checkVal = "";
 var stepCntr = 0;
 var defDdText = "--select--";
